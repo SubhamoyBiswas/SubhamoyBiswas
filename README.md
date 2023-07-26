@@ -1,13 +1,14 @@
 - 👋  Hi, I’m Subhamoy Biswas.
 
-- 👀  My interests include: 1. biomedical signal processing, 2. biomedical informatics, and 3. mathematical modelling
+- 👀  My interests include:
+      1. machine learning frameworks for state-of-the-art bioengineering problems
+      2. biomedical devices
 
-- 🌱  I’m currently an Electrical Engineering undergraduate at Jadavpur University, India.
-- 🌱  I’m a recipient of the prestigious Jagadis Bose National Science Talent Search Senior Scholarship in 2018 which funds my entire undergraduate tenure.
-- 🌱  I'm a MITACS Globalink Internship awardee in 2021, where I interned at the University of Montreal, CA.
+- 🌱  I’m currently a Master of Applied Science research candidate at University of Waterloo.
+- 🌱  I’m a recipient of the Waterloo Insitute of Nanotechnology (WIN) Nanofellowship awarded to UW graduate students pursuing nanotechnology research
+- 🌱  I’m was also awarded the International Master's Award of Excellence for my undergraduate performance at Jadavpur University.
 
-- 📫  Feel free to have a look at my research work in this link: https://www.researchgate.net/profile/Subhamoy-Biswas-2/research
-- 📫  If you have any queries, don't hesitate to contact at: subhab365@gmail.com
+- 📫  For any queries or possible collaborations, don't hesitate to contact at: s2biswas@uwaterloo.ca
 
 <!---
 SubhamoyBiswas/SubhamoyBiswas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
